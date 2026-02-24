@@ -1,0 +1,15 @@
+export { demoCourses } from "./courses";
+export { demoLessons } from "./lessons";
+export { demoAssignments } from "./assignments";
+export { demoSubmissions } from "./submissions";
+export { demoExams } from "./exams";
+export { demoQuestions } from "./questions";
+export { demoEnrollments } from "./enrollments";
+export { demoLessonCompletions } from "./lessonCompletions";
+export { demoExamAttempts } from "./examAttempts";
+export { demoPerformanceProfiles } from "./performance";
+export { demoXPTransactions, demoBadges, demoStudentBadges } from "./gamification";
+export { demoSkillNodes, demoStudentSkillProgress } from "./skillTree";
+export { demoLiveSessions } from "./liveSessions";
+export { demoPlagiarismReports } from "./plagiarism";
+export { demoCertificates } from "./certificates";
